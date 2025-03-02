@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Structure-VSCode-SASS 👋</h1>
-<p align="center">
+<p align="left">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
