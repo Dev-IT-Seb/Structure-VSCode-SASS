@@ -11,7 +11,7 @@
 ## Strategie d'execution Powershell 
 > Au lancement du script, vous pouvez obtenir un message d'avertissement concernant une modification de la stratégie d'execution Windows.
 <p align="center">
-  <img alt="Restriction Windows Powershell" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Restriction_Powershell.PNG" width="900" />
+  <img alt="Restriction Windows Powershell" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Restriction_Powershell.PNG" width="1000" />
 </p>  
 
 ## Importation dans VSCode  
