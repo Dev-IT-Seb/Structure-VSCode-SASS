@@ -8,6 +8,13 @@
 > Les @use sont également présents dans les fichiers de base de certains dossiers (Page, Layout...) et les 2 plus importants, le main.scss et le styles.scss.  
 > A la fin du script, vous pourrez importer le dossier de votre projet dans VSCode et le compiler avec SASS.
 
+## Importation dans VSCode  
+> Vous obtiendrez un message d'avertissement au moment de l'important du dossier de votre projet.
+
+<p>
+  <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Warning_VSCode.PNG" />
+</p>
+
 ## Author
 
 👤 **Sebastien C.**
