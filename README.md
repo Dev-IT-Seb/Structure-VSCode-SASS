@@ -11,14 +11,14 @@
 ## Strategie d'execution Powershell 
 > Au lancement du script, vous pouvez obtenir un message d'avertissement concernant une modification de la stratégie d'execution Windows.
 <p>
-  <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Restriction_Powershell.PNG" />
+  <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Restriction_Powershell.PNG" width="300" />
 </p>  
 
 ## Importation dans VSCode  
 > Vous obtiendrez un message d'avertissement au moment de l'importation du dossier de votre projet.
 
 <p>
-  <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Warning_VSCode.PNG" />
+  <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Warning_VSCode.PNG" width="300" />
 </p>  
 
 ## Compilation avec SASS  
@@ -35,7 +35,7 @@ npm install -g sass
 ```
 > Après d'avoir compilé votre fichier styles.scss en styles.css, et ayant mis du code dans un fichier SASS (par exemple: Header), cela devrait fonctionner parfaitement pour vous !
 <p>
-  <img alt="Compilation en SASS" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Compilation_SASS.png" />
+  <img alt="Compilation en SASS" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Compilation_SASS.png" width="300" />
 </p>
 
 ## Author
