@@ -35,7 +35,7 @@ npm install -g sass
 ```
 > Après d'avoir compilé votre fichier styles.scss en styles.css, et ayant mis du code dans un fichier SASS (par exemple: Header), cela devrait fonctionner parfaitement pour vous !
 <p>
-  <img alt="Compilation en SASS" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Compilation_SASS.png" width="700" />
+  <img alt="Compilation en SASS" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Compilation_SASS.png" width="1000" />
 </p>
 
 ## Author
