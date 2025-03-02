@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Structure-VSCode-SASS 👋</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
@@ -10,14 +10,14 @@
 
 ## Strategie d'execution Powershell 
 > Au lancement du script, vous pouvez obtenir un message d'avertissement concernant une modification de la stratégie d'execution Windows.
-<p>
+<p align="center">
   <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Restriction_Powershell.PNG" width="700" />
 </p>  
 
 ## Importation dans VSCode  
 > Vous obtiendrez un message d'avertissement au moment de l'importation du dossier de votre projet.
 
-<p>
+<p align="center">
   <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Warning_VSCode.PNG" width="700" />
 </p>  
 
@@ -38,7 +38,7 @@ npm install -g sass
 ```
 sass styles.scss styles.css 
 ```
-<p>
+<p align="center">
   <img alt="Compilation en SASS" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Compilation_SASS.png" width="1000" />
 </p>
 
