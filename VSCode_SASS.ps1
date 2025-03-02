@@ -1,6 +1,6 @@
 # ======================================================================== #
 # NAME: VSCode_SASS.ps1
-# AUTHOR: Sebastien CHATEL
+# AUTHOR: Sebastien C.
 # DATE: 02/03/2025
 #
 # VERSION 1.0
@@ -61,7 +61,7 @@ try {
 	}
 }
 catch {
-	Write-Error "Impossible de vérifier ou de pratiquer l'auto élévation du script."
+	Write-Error "Impossible de vÃ©rifier ou de pratiquer l'auto Ã©lÃ©vation du script."
 	Write-Error $_.Exception.Message
 	Start-Sleep 10
 }
