@@ -4,8 +4,8 @@
 </p>
 
 > Ce script vous permettra de créer une structure de fichiers/dossiers pour vos projets Web avec SASS.  
-> Si vous réalisez plusieurs projets Web et que vous souhaitez une base propre, ce script est pour vous !
-> Les @use sont également présents dans les fichiers de base de certains dossiers (Page, Layout...) et les 2 plus importants, le main.scss et le styles.scss.
+> Si vous réalisez plusieurs projets Web et que vous souhaitez une base propre, ce script est pour vous !  
+> Les @use sont également présents dans les fichiers de base de certains dossiers (Page, Layout...) et les 2 plus importants, le main.scss et le styles.scss.  
 > A la fin du script, vous pourrez importer le dossier de votre projet dans VSCode et le compiler avec SASS.
 
 ## Author
