@@ -8,11 +8,34 @@
 > Les @use sont également présents dans les fichiers de base de certains dossiers (Page, Layout...) et les 2 plus importants, le main.scss et le styles.scss.  
 > A la fin du script, vous pourrez importer le dossier de votre projet dans VSCode et le compiler avec SASS.
 
+## Strategie d'execution Powershell 
+> Au lancement du script, vous pouvez obtenir un message d'avertissement concernant une modification de la stratégie d'execution Windows.
+<p>
+  <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Restriction_Powershell.PNG" />
+</p>  
+
 ## Importation dans VSCode  
-> Vous obtiendrez un message d'avertissement au moment de l'important du dossier de votre projet.
+> Vous obtiendrez un message d'avertissement au moment de l'importation du dossier de votre projet.
 
 <p>
   <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Warning_VSCode.PNG" />
+</p>  
+
+## Compilation avec SASS  
+> Après d'avoir executé le script puis importé votre projet dans VSCode, vous pourrez désormais compiler avec SASS.
+> Bien entendu, vous aurez besoin de node.js.
+> Après d'avoir téléchargé et installé node.js, installé les packages NPM en local (dans votre projet) ou global avec un terminal (cmd, Powershell...).
+> Installation en global :
+```
+npm install -g sass
+```
+> Installation en local :
+```
+ npm install --save-dev sass
+```
+> Après d'avoir compilé votre fichier styles.scss en styles.css, et ayant mis du code dans un fichier SASS (par exemple: Header), cela devrait fonctionner parfaitement pour vous !
+<p>
+  <img alt="Compilation en SASS" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Compilation_SASS.png" />
 </p>
 
 ## Author
