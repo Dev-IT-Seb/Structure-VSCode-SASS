@@ -46,7 +46,6 @@ sass styles.scss styles.css
 
 👤 **Sebastien C.**
 
-* Website: https://github.com/Dev-IT-Seb
 * Github: [@Dev-IT-Seb](https://github.com/Dev-IT-Seb)
 
 ## Show your support
