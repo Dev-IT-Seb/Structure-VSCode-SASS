@@ -74,7 +74,7 @@ Write-host "
 
 ===========================================================
         SCRIPT DE CREATION DE STRUCTURE SASS
-                CREATOR : Sebastien CHATEL
+                CREATOR : Sebastien C.
                 DATE : 01/03/2025
         ------------------------------------
                     
