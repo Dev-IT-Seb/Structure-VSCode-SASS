@@ -24,7 +24,7 @@
 ## Compilation avec SASS  
 > Après d'avoir executé le script puis importé votre projet dans VSCode, vous pourrez désormais compiler avec SASS.
 > Bien entendu, vous aurez besoin de node.js.
-> Après d'avoir téléchargé et installé node.js, installé les packages NPM en local (dans votre projet) ou global avec un terminal (cmd, Powershell...).
+> Après d'avoir téléchargé et installé node.js, installé les packages NPM en local (dans votre projet) ou global avec un terminal (cmd, Powershell...).  
 > Installation en global :
 ```
 npm install -g sass
