@@ -15,14 +15,15 @@
 </p>  
 
 ## Importation dans VSCode  
-> Vous obtiendrez un message d'avertissement au moment de l'importation du dossier de votre projet.
+> Au moment de l'importation de votre projet, VSCode peut vous afficher un avertissement de sécurité.
+> Définissez si vous souhaitez faire confiance au dossier de votre projet ou votre dossier Desktop.
 
 <p align="center">
   <img alt="Warning VSCode" src="https://raw.githubusercontent.com/Dev-IT-Seb/Structure-VSCode-SASS/refs/heads/main/Warning_VSCode.PNG" width="700" />
 </p>  
 
 ## Compilation avec SASS  
-> Après d'avoir executé le script puis importé votre projet dans VSCode, vous pourrez désormais compiler avec SASS.
+> Après d'avoir executé le script puis importé votre projet dans VSCode, vous pourrez désormais compiler avec SASS.  
 > Bien entendu, vous aurez besoin de node.js.
 > Après d'avoir téléchargé et installé node.js, installé les packages NPM en local (dans votre projet) ou global avec un terminal (cmd, Powershell...).  
 > Installation en global :
@@ -33,7 +34,7 @@ npm install -g sass
 ```
  npm install --save-dev sass
 ```
-> Après d'avoir compilé votre fichier styles.scss en styles.css, et ayant mis du code dans un fichier SASS (par exemple: Header), cela devrait fonctionner parfaitement pour vous !
+> Après d'avoir compilé votre fichier styles.scss en styles.css, et ayant mis du code dans un fichier SASS (par exemple: Header), cela devrait fonctionner parfaitement pour vous !  
 > Pour compiler votre fichier Styles.scss :
 ```
 sass styles.scss styles.css 
